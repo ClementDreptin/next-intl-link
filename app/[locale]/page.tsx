@@ -1,5 +1,5 @@
 import { useTranslations } from 'next-intl';
-import NextIntlLink from 'next-intl/link';
+import NextIntlLink from '@/next-intl/link';
 import { Link as MuiLink } from '@/mui/material';
 
 export default function Index() {
